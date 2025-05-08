@@ -1,2 +1,3 @@
-public class field {
-}
+
+public class field { System.out.println("jjrr")
+    }
